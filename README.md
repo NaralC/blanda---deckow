@@ -1,0 +1,1 @@
+"import { Component } from \"@angular/core\";\n\n@Component({\n  selector: \"app-root\",\n  templateUrl: \"./app.component.html\",\n  styleUrls: [\"./app.component.css\"]\n})\nexport class AppComponent {\n  helloWorld = \"Hello world\";\n}           \n"
